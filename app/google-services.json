@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "421699855356",
+    "firebase_url": "https://beac-ed88e.firebaseio.com",
+    "project_id": "beac-ed88e",
+    "storage_bucket": "beac-ed88e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421699855356:android:4ec0234e4029f0b1",
+        "android_client_info": {
+          "package_name": "com.unotrack.device.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421699855356-1okl3d4jp19t2ioa9c6qh1kb65uptgmg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.unotrack.device.demo",
+            "certificate_hash": "766120709c1d011bdfecc32a28db1f6a33edc1c6"
+          }
+        },
+        {
+          "client_id": "421699855356-5rliujtfkq4md21f3cjnajne19ahlgto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKpHzbOSiGyUDD07TH2IXwoxaQiaTO3Bw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421699855356-5rliujtfkq4md21f3cjnajne19ahlgto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
